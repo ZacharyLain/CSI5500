@@ -1,3 +1,5 @@
+package SimpleSocket;
+
 import java.io.*;
 import java.net.*;
 
